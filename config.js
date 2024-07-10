@@ -15,17 +15,6 @@ global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Abdulmuiz01:<password>
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || "DATABASE_URL=postgres://r:S0Mz58mRSf22vFi6qsPinfsfBy1oxb43@dpg-codjosol6cac73blepvg-a.oregon-postgres.render.com/abdulmuiz
-KOYEB=true
-KOYEB_API=h12412wt3je40xmczpeyd04h2eokvh2aexzr6m6ejpii6lqi8tty5oer5dkqc9ly
-KOYEB_NAME=Moonlight
-MAX_UPLOAD=50
-PREFIX=
-REJECT_CALL=false
-RMBG_KEY=null
-SESSION_ID=MOONLIGHT
-STICKER_PACKNAME=,LyFE
-SUDO=null
-WARN_LIMIT=3"
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
